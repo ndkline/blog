@@ -11,7 +11,7 @@ email: nicholas@theagora.us
 description: > # this means to ignore newlines until "baseurl:"
   Nicholas is a programmer at Penn State University bringing a full stack and
   UX expertise into higher education. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.ndkline.com" # the base hostname & protocol for your site
 twitter_username: ndkline
 github_username:  ndkline
