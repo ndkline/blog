@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: NDKline
+title: Nicholas D. Kline
 email: nicholas@theagora.us
 description: > # this means to ignore newlines until "baseurl:"
-  A programmer at PSU mastering UX, servering content across the globe, and evangelist for a better internet 
+  A programmer at PSU mastering UX, servering content across the globe, and evangelist for a better internet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.ndkline.com" # the base hostname & protocol for your site
 twitter_username: ndkline
