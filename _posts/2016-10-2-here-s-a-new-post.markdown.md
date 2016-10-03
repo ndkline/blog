@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "TheAgora meets Pantheon"
+title: "TheAgora Meets Pantheon"
 date: "2016-10-2 12:40"
 tags: "Pantheon, Drupal, theagora"
 ---
