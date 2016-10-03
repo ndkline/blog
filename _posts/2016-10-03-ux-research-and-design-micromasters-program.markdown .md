@@ -2,6 +2,7 @@
 layout: "post"
 title: "UX Research and Design MicroMasters Program"
 date: "2016-10-03 11:44"
+tags: "UX, UX Research, User Experience, UX Design, University of Michigan, edX"
 ---
 
 The [User Experience Research and Design MicroMasters](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design) program via [edX](https://www.edx.org/) and backed by [the University of Michigan](http://umich.edu/) begins tomorrow. I've enrolled for certification within the program and will be taking classes along side a coworker.
